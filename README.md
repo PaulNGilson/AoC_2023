@@ -4,9 +4,9 @@ My attempt at the 25*2 challenges from the [2023 Advent of
 Code](https://adventofcode.com/2023) challenge.
 
 :star: means just the first star, :star2: means both stars, and :custard: (just
-because it showed up while searching for emojis with "star" in the name) means
-no stars and the day has passed. I suspect I'll be very behind the daily-rate,
-as the days get busier through December...
+because "custard" showed up while searching for emojis with "star" in the name)
+means no stars and the day is in the past. I suspect I'll be very behind the
+daily-rate, as the days get busier through December...
 
 Times to run are just one example run, in milliseconds (unless specified otherwise).
 
