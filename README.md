@@ -12,5 +12,5 @@ Times to run are just one example run, in milliseconds (unless specified otherwi
 
 | Days | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |-|-|-|-|-|-|-|-|-|-|-|
-| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: |  |
-| Time | 50 | 51 | 72 | 49 | 37 | 6706 | 46 | 293 | 40 |  |
+| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: |
+| Time | 50 | 51 | 72 | 49 | 37 | 6706 | 46 | 293 | 40 | 6520 |
