@@ -18,7 +18,7 @@ apart in week 3!):
 * Final solutions should run in sub-15s.
 
 | Days | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|-|-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|-|-|-|-|
 | Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: |
 | Time | 50 | 51 | 72 | 49 | 37 | 6706 | 46 | 293 | 40 | 6520 | 770 |
 
