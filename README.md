@@ -17,10 +17,14 @@ apart in week 3!):
 
 * Final solutions should run in sub-15s.
 
-| Days | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: |
-| Time | 50 | 51 | 72 | 49 | 37 | 6706 | 46 | 293 | 40 | 6520 | 770 |
+| Days | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :custard: |
+| Time | 50 | 51 | 72 | 49 | 37 | 6706 | 46 | 293 | 40 | 6520 | 770 | 33m 03s |  |
+
+| Days | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| Stars | :custard: | :custard: | :custard: | :custard: | :custard: | :custard: | :custard: | :custard: | :custard: |  |  |  |
 
 :star: means just the first star, :star2: means both stars, and :custard: (just
 because "custard" showed up while searching for emojis with "star" in the name)
