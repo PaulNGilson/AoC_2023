@@ -1,5 +1,3 @@
-import time
-
 file = open("input.txt", "r")
 #file = open("input_test.txt", "r")
 data_raw = file.readlines()
