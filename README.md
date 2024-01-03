@@ -24,8 +24,8 @@ apart in week 3!):
 
 | Days | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :custard: | :custard: | :custard: | :custard: | :custard: |
-| Time | 610 | 3243 | 3425 | 19m 46s | 53 | 78 | 253 |  |  |  |  |  |
+| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :custard: | :custard: | :custard: |
+| Time | 610 | 3243 | 3425 | 19m 46s | 53 | 78 | 253 | 245 | 1338 |  |  |  |
 
 :star: means just the first star, :star2: means both stars, and :custard: (just
 because "custard" showed up while searching for emojis with "star" in the name)
