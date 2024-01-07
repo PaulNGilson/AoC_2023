@@ -34,3 +34,13 @@ daily-rate, as the days get busier through December...
 
 Times to run are just one example run, in milliseconds (unless specified
 otherwise).
+
+## Updates
+
+After completing the challenges, I went back through them (particularly those
+running slowly or just of general interest in other approaches) with some notes
+below:
+
+* Day 12: with memoization, and converting all these input lists to tuples, my
+  code runs in 8m 06s - still not "fast" but does show the benefit of
+  memoization even in code that's not especially well-optimised.
